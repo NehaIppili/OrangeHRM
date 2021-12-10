@@ -1,0 +1,7 @@
+com\Automation\Generic\PropertyReader.class
+com\Automation\Test\LoginTest.class
+com\Automation\Generic\DriverUtils.class
+com\Automation\Test\BaseTest.class
+com\Automation\Pages\AdminPage.class
+com\Automation\Pages\BasePage.class
+com\Automation\Pages\LoginPage.class
